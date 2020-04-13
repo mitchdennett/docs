@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](/)
+* [Introduction](_index.md)
 
 ## Prologue
 
